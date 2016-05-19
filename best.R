@@ -1,5 +1,5 @@
 best <- function( state, outcome){
-     
+      
       Full_Data <- read.csv("outcome-of-care-measures.csv", colClasses = "character")           #copy all data from original file
       
       
